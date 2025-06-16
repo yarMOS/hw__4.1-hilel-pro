@@ -1,6 +1,6 @@
 'use strict';
 
-const userName = '';
+const userName = prompt("Введіть сво ім'я");
 
 if (userName === null) {
   alert("Ти натиснув 'Скасувати'.");
